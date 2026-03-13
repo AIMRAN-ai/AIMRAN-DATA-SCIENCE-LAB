@@ -1,0 +1,12 @@
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Engine\bin\Debug\net10.0\AimranDataScienceLab.Engine.deps.json
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Engine\bin\Debug\net10.0\AimranDataScienceLab.Engine.dll
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Engine\bin\Debug\net10.0\AimranDataScienceLab.Engine.pdb
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Engine\obj\Debug\net10.0\AimranDataScienceLab.Engine.csproj.AssemblyReference.cache
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Engine\obj\Debug\net10.0\AimranDataScienceLab.Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Engine\obj\Debug\net10.0\AimranDataScienceLab.Engine.AssemblyInfoInputs.cache
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Engine\obj\Debug\net10.0\AimranDataScienceLab.Engine.AssemblyInfo.cs
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Engine\obj\Debug\net10.0\AimranDataScienceLab.Engine.csproj.CoreCompileInputs.cache
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Engine\obj\Debug\net10.0\AimranDataScienceLab.Engine.dll
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Engine\obj\Debug\net10.0\refint\AimranDataScienceLab.Engine.dll
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Engine\obj\Debug\net10.0\AimranDataScienceLab.Engine.pdb
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Engine\obj\Debug\net10.0\ref\AimranDataScienceLab.Engine.dll
