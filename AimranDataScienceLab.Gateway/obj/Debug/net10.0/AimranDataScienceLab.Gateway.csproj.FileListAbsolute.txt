@@ -1,0 +1,12 @@
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Gateway\bin\Debug\net10.0\AimranDataScienceLab.Gateway.deps.json
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Gateway\bin\Debug\net10.0\AimranDataScienceLab.Gateway.dll
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Gateway\bin\Debug\net10.0\AimranDataScienceLab.Gateway.pdb
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Gateway\obj\Debug\net10.0\AimranDataScienceLab.Gateway.csproj.AssemblyReference.cache
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Gateway\obj\Debug\net10.0\AimranDataScienceLab.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Gateway\obj\Debug\net10.0\AimranDataScienceLab.Gateway.AssemblyInfoInputs.cache
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Gateway\obj\Debug\net10.0\AimranDataScienceLab.Gateway.AssemblyInfo.cs
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Gateway\obj\Debug\net10.0\AimranDataScienceLab.Gateway.csproj.CoreCompileInputs.cache
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Gateway\obj\Debug\net10.0\AimranDataScienceLab.Gateway.dll
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Gateway\obj\Debug\net10.0\refint\AimranDataScienceLab.Gateway.dll
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Gateway\obj\Debug\net10.0\AimranDataScienceLab.Gateway.pdb
+C:\Users\ABDULLAH IMRAN\source\repos\Aimran Data Science Lab\AIMRAN Data Science Lab\AimranDataScienceLab.Gateway\obj\Debug\net10.0\ref\AimranDataScienceLab.Gateway.dll
